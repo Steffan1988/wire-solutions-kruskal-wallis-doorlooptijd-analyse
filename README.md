@@ -53,7 +53,6 @@ incident minimaal de volgende velden:
 - incident nummer;
 - incidentcategorie;
 - totale minuten open;
-- prioriteit incident.
 
 Voor de analyse is gewerkt met één unieke registratie per incident.
 Incidenten met ontbrekende of niet-logische doorlooptijden zijn
